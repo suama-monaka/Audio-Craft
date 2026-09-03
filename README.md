@@ -8,8 +8,6 @@ Audio Craftは、FFmpegを利用した日本語GUIの音声抽出・一括変換
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/Powered%20by-FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
-![Audio Craftのメイン画面](docs/screenshot.png)
-
 ## Audio Craftでできること
 
 - MP4、MOV、MKV、WebMなどの動画から音声だけを抽出
