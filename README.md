@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31802465/README.md)
 # Audio Craft
 
 **動画から音声だけを取り出す。音声を好きな形式へまとめて変換する。**  
